@@ -2,6 +2,7 @@
   "name": "dataset-drc14",
   "version": "0.0.0",
   "private": true,
+  "license": "MIT",
   "type": "module",
   "main": "./index.js",
   "types": "./index.d.ts",
